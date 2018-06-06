@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "clarifai": "^2.7.1",
     "react": "^16.4.0",
     "react-dom": "^16.4.0",
     "react-particles-js": "^2.2.0",
